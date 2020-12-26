@@ -1,0 +1,22 @@
+﻿Build started 1/2/2017 9:36:04 PM.
+     1>Project "C:\Users\HP\Desktop\50% Submission\Projects-20170126T031735Z\Projects\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\New folder\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(144): error C2040: 'temp' : 'int' differs in levels of indirection from 'char [100]'
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(200): error C2105: '++' needs l-value
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(294): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(399): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(400): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(401): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(416): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(417): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(418): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(433): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(434): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\hp\desktop\50% submission\projects-20170126t031735z\projects\project1\project1\imain.cpp(435): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>Done Building Project "C:\Users\HP\Desktop\50% Submission\Projects-20170126T031735Z\Projects\Project1\Project1\Project1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.09

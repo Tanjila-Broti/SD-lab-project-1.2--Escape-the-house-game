@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1464772540 source:d:\ \codeblocks\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1480582390 d:\ \codeblocks\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+
+1464652704 d:\ \codeblocks\myigraphics\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1464652704 d:\ \codeblocks\myigraphics\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1385316878 source:c:\users\hp\desktop\myigraphics\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1481128222 source:c:\users\hp\desktop\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1480582390 c:\users\hp\desktop\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+
